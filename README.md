@@ -8,7 +8,7 @@ take key-value pairs.
 ### File structure
 
 ```
-CVAcademic/
+cvacademic/
 ├── cvacademic.cls        # Class file - contains definitions
 ├── main.tex              # Master document - sections are included from here
 ├── header.tex            # Personal information and socials
